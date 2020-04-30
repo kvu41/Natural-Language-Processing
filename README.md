@@ -22,8 +22,8 @@ This repository is dedicated for my Natural Language Processing Progress
       
       - My attempts :
       
-          -> Notebook 1: EDA for toxic comments and possible solutions for heavily imbalanced dataset (on-going)
+           - Notebook 1: EDA for toxic comments and possible solutions for heavily imbalanced dataset (on-going)
                 
-          -> Notebook 2: Adapted and Fine-tuned multilingual language models (mBERT, XLM-RoBERTa) for classification problems (on-going)
+           - Notebook 2: Adapted and Fine-tuned multilingual language models (mBERT, XLM-RoBERTa) for classification problems (on-going)
                 
-          -> Notebook 3: Translate selective comments on both training and validation set to enrich datasource and generalize for test set 
+           - Notebook 3: Translate selective comments on both training and validation set to enrich datasource and generalize for test set 
