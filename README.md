@@ -4,7 +4,7 @@ This repository is dedicated for my Natural Language Processing Progress
 1. Covid-19 Open Research Challenges: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
     - In contribution for research community to fight against Covid-19 pandemic
     
-    -Goals : 
+    - Goals : 
     
           - EDA for 30000+ research articles (archieved)
           
@@ -22,8 +22,8 @@ This repository is dedicated for my Natural Language Processing Progress
       
       - My attempts :
       
-                -> Notebook 1: EDA for toxic comments and possible solutions for heavily imbalanced dataset (on-going)
+          -> Notebook 1: EDA for toxic comments and possible solutions for heavily imbalanced dataset (on-going)
                 
-                -> Notebook 2: Adapted and Fine-tuned multilingual language models (mBERT, XLM-RoBERTa) for classification problems (on-going)
+          -> Notebook 2: Adapted and Fine-tuned multilingual language models (mBERT, XLM-RoBERTa) for classification problems (on-going)
                 
-                -> Notebook 3: Translate selective comments on both training and validation set to enrich datasource and generalize for test set 
+          -> Notebook 3: Translate selective comments on both training and validation set to enrich datasource and generalize for test set 
